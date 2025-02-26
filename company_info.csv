@@ -1,0 +1,13 @@
+company,sector,macro_sector,city,zip_code,region,country
+Volkswagen AG,Automotive,Automotive,Wolfsburg,38440,Lower Saxony,Germany
+Siemens AG,Technology and Industrial Engineering,Technology & Engineering,Munich,80333,Bavaria,Germany
+Allianz SE,Financial Services and Insurance,Financial Services,Munich,80802,Bavaria,Germany
+BMW AG,Automotive,Automotive,Munich,80788,Bavaria,Germany
+BASF SE,Chemicals,Chemicals & Pharmaceuticals,Ludwigshafen,67056,Rhineland-Palatinate,Germany
+Deutsche Telekom AG,Telecommunications,Telecommunications,Bonn,53113,North Rhine-Westphalia,Germany
+Daimler AG,Automotive,Automotive,Stuttgart,70372,Baden-Württemberg,Germany
+SAP SE,Software and Technology,Technology & Engineering,Walldorf,69190,Baden-Württemberg,Germany
+Bayer AG,Pharmaceuticals and Chemicals,Chemicals & Pharmaceuticals,Leverkusen,51373,North Rhine-Westphalia,Germany
+Deutsche Bank AG,Financial Services and Banking,Financial Services,Frankfurt,60325,Hesse,Germany
+Porsche AG,Automotive,Automotive,Stuttgart,70435,Baden-Württemberg,Germany
+Merck KGaA,Pharmaceuticals and Life Sciences,Chemicals & Pharmaceuticals,Darmstadt,64293,Hesse,Germany
