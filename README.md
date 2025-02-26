@@ -21,6 +21,7 @@ The analysis was conducted using Jupyter Notebook (Python) and Tableau, structur
   
 **Tableau**
 - Interactive dashboard to explore financial trends over time and focus on specific companies.
-- All key financial indicators were included to provide a comprehensive view of the data story.  
+- All key financial indicators were included to provide a comprehensive view of the data story.
+
 Dashboard link:
 https://public.tableau.com/app/profile/sandra.messina/viz/ProgettoTableau_17404882477540/Dashboard1
