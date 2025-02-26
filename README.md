@@ -15,7 +15,7 @@ The analysis was conducted using Jupyter Notebook (Python) and Tableau, structur
   - Comparisons across companies to highlight performance differences.
 - The data was analyzed in two periods:
   - 2017-2020 (pre-pandemic).
-  - 2021-2024 (recent years).
+  - 2021-2024 (recent years).  
     This segmentation allows for a clearer view of how companies have evolved over time.
 - At the end of the analysis, a new table was created, adding company headquarters (Germany) and industry sector information. These additional details were used in the Tableau dashboard.
   
